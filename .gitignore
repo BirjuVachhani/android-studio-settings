@@ -1,0 +1,10 @@
+# Miscellaneous
+.DS_Store
+.atom/
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/

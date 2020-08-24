@@ -6,7 +6,7 @@
 
 This repository contains almost all the information about the Android Studio configs that I use for my day to day Android and Flutter development.
 
-
+<br/>
 
 ## Look & Feel
 
@@ -39,8 +39,9 @@ Highlight modified lines in the gutter, Change font size with command + Mouse Wh
 ```
 
 
+<br/>
 
-#### Editor Font
+### Editor Font
 
 **Font:** [ Firacode (Medium)](https://github.com/tonsky/FiraCode) 
 
@@ -51,8 +52,9 @@ Highlight modified lines in the gutter, Change font size with command + Mouse Wh
 **Ligatures**: Enabled
 
 
+<br/>
 
-#### Console Font
+### Console Font
 
 **Font:** [ Firacode (Retina)](https://github.com/tonsky/FiraCode) 
 
@@ -62,7 +64,7 @@ Highlight modified lines in the gutter, Change font size with command + Mouse Wh
 
 **Ligatures**: Enabled
 
-
+<br/>
 
 ## Plugins
 
@@ -76,7 +78,7 @@ Highlight modified lines in the gutter, Change font size with command + Mouse Wh
 - [Pub Assist](https://plugins.jetbrains.com/plugin/14412-pubassist/)
 - [Shell Script](https://plugins.jetbrains.com/plugin/13122-shell-script/)
 
-
+<br/>
 
 ## File Templates
 
@@ -87,13 +89,13 @@ Highlight modified lines in the gutter, Change font size with command + Mouse Wh
 // Created Date: ${MONTH_NAME_FULL} ${DAY}, ${YEAR}
 ```
 
-
+<br/>
 
 ## Live Templates
 
 - [Gitmoji Android Live Templates](https://github.com/BirjuVachhani/gitmoji-android-live-templates)
 
-
+<br/>
 
 ## External Tools
 
@@ -107,13 +109,15 @@ Runs flutter build runner with `--delete-conflicting-outputs` option.
 
 ![](assets/external_tool_build_runner_build.png)
 
+<br/>
+
 ## Terminal Shell
 
 - [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
 
 - [zsh](https://www.zsh.org/)
 
-
+<br/>
 
 #### Downloads
 
@@ -123,7 +127,7 @@ You can download my exported settings and import it to yours. You can download i
 
 > Note that the downloadable settings only contains exported settings from Android Studio. So you will only find things that Android Studio allows to export.
 
-
+<br/>
 
 #### How to import settings
 
@@ -134,7 +138,7 @@ You can download my exported settings and import it to yours. You can download i
 - Make sure everything is selected in `Select Components to Import` dialog and then click ok.
 - Enjoy!
 
-
+<br/>
 
 #### Thank you.
 

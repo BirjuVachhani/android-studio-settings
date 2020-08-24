@@ -125,6 +125,17 @@ You can download my exported settings and import it to yours. You can download i
 
 
 
+#### How to import settings
+
+- Download `Settings.zip` from the latest release.
+- Open Android Studio.
+- Go to `File > Import Settings` or `File> Manage IDE Settings> Import Settings`.
+- Locate and select `Settings.zip` file.
+- Make sure everything is selected in `Select Components to Import` dialog and then click ok.
+- Enjoy!
+
+
+
 #### Thank you.
 
 If you find it helpful, don't forget to star the [repository](https://github.com/birjuvachhani/android-studio-settings).

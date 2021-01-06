@@ -77,6 +77,10 @@ Highlight modified lines in the gutter, Change font size with command + Mouse Wh
 - [Flutter Snippet](https://plugins.jetbrains.com/plugin/12348-flutter-snippets/)
 - [Pub Assist](https://plugins.jetbrains.com/plugin/14412-pubassist/)
 - [Shell Script](https://plugins.jetbrains.com/plugin/13122-shell-script/)
+- [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
+- [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
+- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+- [Dracula Theme](https://plugins.jetbrains.com/plugin/12275-dracula-theme)
 
 <br/>
 
